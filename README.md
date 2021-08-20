@@ -15,16 +15,16 @@ const Alxtra = {
   tools: [MySQL, Node.js, VSCode, KDE Neon, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        Status: "White Hat",
+                        Goal: "Open-Source Security",
+                        Certificates: "A few Cisco, and google ad and ad managing"
                       },
  challenge: "I have started a new website AltSec.cc with one of my friends, with free open-source solutions"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a white hat now, everything I make I try to make it open source, thanks reading!</b> :)</em>
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Alxtra](https://github.com/Alxttra)
