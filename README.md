@@ -3,8 +3,10 @@
 <p><em>Software Enginner and CEO at <a href="http://altsec.cc">AltSec</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Im going to college for CS&EN, and network security at <a href="https://www.sinclair.edu/">Sinclair</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Alxxtra](https://img.shields.io/github/followers/alxttra?label=follow&style=social)](https://github.com/Alxttra)
 ![](https://komarev.com/ghpvc/?username=alxttra&style=flat-square&color=ff8cec)
+
+[![GitHub Alxxtra](https://img.shields.io/github/followers/alxttra?label=follow&style=social)](https://github.com/Alxttra)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
