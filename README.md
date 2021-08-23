@@ -4,7 +4,7 @@
 </em></p>
 
 [![GitHub Alxxtra](https://img.shields.io/github/followers/alxttra?label=follow&style=social)](https://github.com/Alxttra)
-
+![](https://komarev.com/ghpvc/?username=alxttra&style=flat-square&color=ff8cec)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
