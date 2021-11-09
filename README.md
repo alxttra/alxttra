@@ -8,25 +8,4 @@
 [![GitHub Alxxtra](https://img.shields.io/github/followers/alxttra?label=follow&style=social)](https://github.com/Alxttra)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Alxtra = {
-  pronouns: "He" | "Him",
-  What I know: [Javascript, HTML, CSS, C#, Python, Node, PHP, MongoDB, Firebase, Perl, Lua],
-  tools: [MySQL, Node.js, VSCode, KDE Neon, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        Status: "White Hat",
-                        Goal: "Open-Source Security",
-                        Certificates: "A few Cisco, and google ad and ad managing"
-                      },
- challenge: "I have started a new website AltSec.cc with one of my friends, with free open-source solutions"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a white hat now, everything I make I try to make it open source, thanks for reading!</b> :)</em>
-
----
-
-⭐️ From [@Alxtra](https://github.com/Alxttra)
+So apparently I can't make a good bio without skids bitching so I know py and web dev
